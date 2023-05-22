@@ -7,6 +7,7 @@ Used HTML, CSS, JS, PHP, and MySQL - Bootstrap
 4) Create new DB with name - u343927926_rs
 5) Create user - Click on "Server: 127.0.0.1" - "User Accounts" - Give all permissions
 	Create user username = "u343927926_sdsj"; password = "shreyas"; hostname = "localhost";
-6) Goto xampp install dir - Navigate to htdocs - Create your project folder with name "research"
-7) Copy paste all files in hosted_xampp folder
-8) Go to http://localhost/research/ 
+6) Import .sql file in this repo to create and insert data in MySQL DB
+7) Goto xampp install dir - Navigate to htdocs - Create your project folder with name "research"
+8) Copy paste all files in hosted_xampp folder
+9) Go to http://localhost/research/ 
